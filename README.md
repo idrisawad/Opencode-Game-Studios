@@ -14,8 +14,6 @@
   <a href=".opencode/hooks"><img src="https://img.shields.io/badge/hooks-15-orange" alt="15 Hooks"></a>
   <a href=".opencode/rules"><img src="https://img.shields.io/badge/rules-14-red" alt="14 Rules"></a>
   <a href="https://opencode.ai/v2/docs"><img src="https://img.shields.io/badge/built%20for-OpenCode%20V2-5c6bc0?logo=opencode" alt="Built for OpenCode V2"></a>
-  <a href="https://www.buymeacoffee.com/donchitos3"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20this%20project-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
-  <a href="https://github.com/sponsors/Donchitos"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20this%20project-ea4aaa?logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
 </p>
 
 ---
